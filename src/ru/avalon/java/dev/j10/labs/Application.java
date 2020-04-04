@@ -5,6 +5,7 @@ import ru.avalon.java.dev.j10.labs.shapes.*;
 public class Application {
 
     public static void main(String[] args) {
+        
         Shape[] shapes = new Shape[10];
         
         
